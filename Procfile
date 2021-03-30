@@ -1,1 +1,1 @@
-web: gunicorn smpapp:app
+web: gunicorn app:app
